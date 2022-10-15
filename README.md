@@ -14,4 +14,4 @@ Pour contribuer , vous pouvez choisir l'une des options suivantes:
  
  NB: le format des vocaux doit être de préférence en mp3 .
 
-Pour plus informations :   contacter nous à l'adresse suivante : diabira.malamine11@gmail.com    
+Pour plus d'informations :   contacter nous à l'adresse suivante : diabira.malamine11@gmail.com    
