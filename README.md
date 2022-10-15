@@ -7,8 +7,10 @@ Dans cette phase de collecte , la contribution de toute personne -Data Scientist
 Pour contribuer , vous pouvez choisir l'une des options suivantes:
 
 
- *Utiliser un site d'enregistrement vocal où chaque enregistrement a un lien de téléchargement comme par exemple celui-ci: https://record.reverb.chat/ 
- *Ou Nous envoyer directement vos enregistrements sur notre chaîne telegram : https://t.me/+hfpbF_i90GA2ZGM0
+ 1-Utiliser un site d'enregistrement vocal où chaque enregistrement a un lien de téléchargement comme par exemple celui-ci: https://record.reverb.chat/ 
+ 
+ 2-Ou Nous envoyer directement vos enregistrements sur notre chaîne telegram : https://t.me/+hfpbF_i90GA2ZGM0
+ 
  
  NB: le format des vocaux doit être de préférence en mp3 .
 
