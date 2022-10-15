@@ -4,17 +4,17 @@ Salut et Bienvenue ;
 Comme vous l'aurez dû remarquer les assistants vocaux actuels comme Siri , Alexa et Google Assistant ne comprennent pas la plupart des langues de l'Afrique de l'Ouest dont le Bambara. 
 Voici l'un des premiers projets de reconnaissance vocale en Bambara.L'objectif est créer un robot intelligent comprenant le Bambara et pouvant accomplir les mêmes tâches que les assistants précités .Ces tâches peuvent être : 
 
-    Contrôler vos appareils et votre maison intelligente.
-    Accéder aux informations de vos calendriers et autres informations personnelles.
-    Trouver des informations en ligne, des réservations de restaurants aux itinéraires, en passant par la météo et les actualités.
-    contrôler votre musique
-    lire le contenu de votre Chromecast ou d'autres appareils compatibles
-    Exécutez des minuteries et des rappels
-    Prenez des rendez-vous et envoyez des messages
-    Ouvrez des applications sur votre téléphone
-    Lisez vos notifications
-    Traductions vocales en temps réel
-    Jouer à des jeux
+    -Contrôler vos appareils et votre maison de façon intelligente.
+    -Accéder aux informations de vos calendriers et autres informations personnelles.
+    -Trouver des informations en ligne, des réservations de restaurants aux itinéraires, en passant par la météo et les actualités.
+    -Exécuter des minuteries et des rappels
+    -Faire des appels téléphoniques  
+    -Acheter du crédit téléphonique et des forfaits internet 
+    -Prendre des rendez-vous et envoyer des messages
+    -Ouvrez des applications sur votre téléphone
+    -Lisez vos notifications
+    -Traductions vocales en temps réel
+    
 
 ## ETAPE 1
 La première tâche -comme dans tout projet de Data Science- est la collecte de données et c'est la plus importante. 
