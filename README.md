@@ -21,19 +21,24 @@ La première tâche -comme dans tout projet de Data Science- est la collecte de 
 A l'heure actuelle , il n' y a aucune base de données Bambara sur les grandes plateformes opensources telles que commonvoice (https://commonvoice.mozilla.org/fr) et Google Cloud . Cela signifie que nous obligés de collecter par nous-même des données en Bambara.Plus on collectera de données , plus notre modèle sera performant et mieux entraîné pour comprendre ce qui lui est dit en Bambara. 
 Dans cette phase de collecte , la contribution de toute personne -Data Scientist ou non) amoureuse de cette langue sera la bienvenue . Elle consiste à enregistrer vocalement une phrase courte en bambara suivie de la trancription en écriture Bamanankan ( Alphabet latin Bambara , Alphabet Français ou  Nko ). 
 
-## CONRIBUTIONS
-Pour contribuer , vous pouvez choisir l'une des options suivantes:
+## CONTRIBUTIONS
+### Contribuer par enregistrements vocaux:
 
+ 1-Enregistrer plusieurs fois ( au minimun 10 fois) un mot en bambara (format wav)
+ 
+ 2-Créer un dossier en le renommant par le mot que vous avez enregistrer 
+ 
+ 3-Envoyer le dossier dans le groupe telegram suivant : https://t.me/+hfpbF_i90GA2ZGM0
+ 
+### Contribuer par des traductions écrites 
+1- Cliquer sur le lien suivant : https://pontoon.mozilla.org/bm/common-voice/web/locales/en/messages.ftl/?string=176567
+2- Corriger ou proposer des traductions par écrit 
 
- 1-Utiliser un site d'enregistrement vocal où chaque enregistrement a un lien de téléchargement comme par exemple celui-ci: https://record.reverb.chat/ 
- 
- 2-Ou Nous envoyer directement vos enregistrements sur notre chaîne telegram : https://t.me/+hfpbF_i90GA2ZGM0
- 
- 
- NB: le format des vocaux doit être de préférence en mp3 .
+NB: Comme astuce vous pouvez utiliser le service de traduction de Google pour traduire de l'anglais en Bambara: 
+https://translate.google.com/?hl=fr&sl=en&tl=bm&op=translate
+En prenant le soin de corriger les erreurs de traduction 
 
 Pour plus d'informations :   contacter nous à l'adresse suivante : diabira.malamine11@gmail.com    
 
 
-## RESSOURCES EN BAMBARA:
-https://www.mali-pense.net/akbk1-cours-01.html
+
