@@ -40,5 +40,7 @@ En prenant le soin de corriger les erreurs de traduction
 
 Pour plus d'informations :   contacter nous à l'adresse suivante : diabira.malamine11@gmail.com    
 
-
+# PROJET SIMILAIRE :
+RobotsMali
+https://github.com/RobotsMali-AI/jeli-asr
 
